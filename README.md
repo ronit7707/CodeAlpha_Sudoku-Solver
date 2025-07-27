@@ -14,6 +14,7 @@ Solve any standard 9x9 Sudoku Puzzle.
 
 # 🚀 Getting Started
 Prerequisites
+
 ~ C++ Compiler (GCC / MinGW / MSVC / Clang)
 
 ~ Visual Studio Code / Code::Blocks / DevC++ or any C++ IDE.
